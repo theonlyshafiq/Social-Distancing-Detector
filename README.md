@@ -1,7 +1,3 @@
-Sure, I'll update the README accordingly:
-
----
-
 # Social Distancing Detector
 
 ## Description
@@ -22,7 +18,7 @@ This project implements a real-time Social Distancing Detector that can identify
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/social-distancing-detector.git
+   git clone https://github.com/theonlyshafiq/Social-Distancing-Detector.git
    ```
 2. Install dependencies:
    ```
@@ -34,9 +30,8 @@ This project implements a real-time Social Distancing Detector that can identify
    ```
    python main.py -i input_video.mp4
    ```
-   Replace `path_to_input_video.mp4` with the path to your input video file.
 2. Adjust settings as needed (e.g., detection threshold, visualization options).
 3. View the output displaying individuals and social distancing violations.
 
 ## Final Video
-![Social Distancing Detector Output](output_video.mp4)
+https://github.com/theonlyshafiq/Social-Distancing-Detector/assets/63657698/265fa1fa-26c0-4c12-9365-89148e43561a

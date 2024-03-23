@@ -5,7 +5,7 @@ from src.utils import calculate_centroids
 from scipy.spatial import distance as dist
 
 
-# python main.py -i "town.mp4"
+# python main.py -i "input_video.mp4"
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
